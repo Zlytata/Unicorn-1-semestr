@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Obchodní angličtina/1. My Career"
+        - file.ext != "base"
+    order:
+      - file.name
+    imageFit: ""
+    cardSize: 800
