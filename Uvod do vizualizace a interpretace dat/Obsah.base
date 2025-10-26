@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Uvod do vizualizace a interpretace dat")
+        - file.ext == "base"
+        - file.basename != "Obsah"
+    cardSize: 800
