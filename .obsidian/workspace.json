@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uvod do vizualizace a interpretace dat/2. Statické ukazatele/2.3 Příklady.md",
+                "file": "Uvod do vizualizace a interpretace dat/5. Statické ukazatele/5.3 Příklady.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Příklady"
+              "title": "5.3 Příklady"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uvod do vizualizace a interpretace dat/2. Statické ukazatele/2.2 Členění statických ukazatelů.md",
+                "file": "Matematický proseminář/3. Algebraické výrazy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Členění statických ukazatelů"
+              "title": "3. Algebraické výrazy"
             }
           }
         ],
@@ -186,36 +186,50 @@
   },
   "active": "caefb71c30157ebf",
   "lastOpenFiles": [
-    "Uvod do vizualizace a interpretace dat/2. Statické ukazatele/Příklad č.2.png",
-    "Uvod do vizualizace a interpretace dat/2. Statické ukazatele/2.2 Členění statických ukazatelů.md",
-    "Uvod do vizualizace a interpretace dat/2. Statické ukazatele/2.3 Příklady.md",
-    "Uvod do vizualizace a interpretace dat/2. Statické ukazatele/2. Statické ukazatele.base",
-    "Uvod do vizualizace a interpretace dat/2. Statické ukazatele/2.1 Co jsou statické ukazatele.md",
-    "Uvod do vizualizace a interpretace dat/2. Statické ukazatele/Příklad č.1.png",
-    "Pasted image 20251026083444.png",
+    "Matematický proseminář/1. Vlastnosti čísel.md",
+    "Matematický proseminář/3. Algebraické výrazy.md",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.4 Selekce.md",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.3 Iterace.md",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.2 Sekvence.md",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.1 Základní komponenty.md",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1. Základní principy.base",
+    "Matematický proseminář/Obsah.base",
+    "Matematický proseminář/Vysvětlivky.md",
+    "Matematický proseminář/2. Množiny.md",
+    "Základy softwarového vývoje/Jacksono strukturované programování/Obsah.base",
+    "Základy softwarového vývoje/Softwarový vývoj/1. Úvod do procesu sw vývoje.md",
+    "Základy softwarového vývoje/Softwarový vývoj/1.1 Proces vývoje sw.md",
+    "Základy softwarového vývoje/Softwarový vývoj/2. Požadavky na sw produkty.md",
+    "Základy softwarového vývoje/Softwarový vývoj/3. Přehled současných metodik.md",
+    "Základy softwarového vývoje/Programování/1. Úvod do JavaScript.md",
+    "Základy softwarového vývoje/Programování/1.2 Programovací paradigma.md",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.4 Selekce s errorem.png",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.4 Selekce bez erroru.png",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.4 Obecný formát selekce.png",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.3 Iterace sktuktury knihy.png",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.3 Iterace znázorňující alespoň jeden výskyt iterované části.png",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.3 Obecný formát iterace.png",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.2 Sekvence položek.png",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy/1.2 Obecný formát sekvence.png",
+    "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy",
+    "Základy softwarového vývoje/Jacksono strukturované programování",
+    "Uvod do vizualizace a interpretace dat/2. Statistické proměnné a organizace dat/2. Statistické proměnné a organizace dat.base",
+    "Uvod do vizualizace a interpretace dat/2. Statistické proměnné a organizace dat/2. Statistické proměnné a organizace dat.md",
+    "Uvod do vizualizace a interpretace dat/5. Statické ukazatele/5. Statické ukazatele.base",
+    "Uvod do vizualizace a interpretace dat/2. Statistické proměnné a organizace dat",
+    "Uvod do vizualizace a interpretace dat/5. Statické ukazatele/5.2 Členění statických ukazatelů.md",
+    "Uvod do vizualizace a interpretace dat/5. Statické ukazatele/Příklad č.2.png",
+    "Uvod do vizualizace a interpretace dat/5. Statické ukazatele/5.3 Příklady.md",
+    "Uvod do vizualizace a interpretace dat/5. Statické ukazatele/5.1 Co jsou statické ukazatele.md",
+    "Uvod do vizualizace a interpretace dat/5. Statické ukazatele/Příklad č.1.png",
     "Uvod do vizualizace a interpretace dat/1. Úvod do analýzy dat/1. Úvod do analýzy dat.base",
     "Uvod do vizualizace a interpretace dat/1. Úvod do analýzy dat/1.1 Úvod do analýzy dat.md",
     "Uvod do vizualizace a interpretace dat/Obsah.base",
-    "Uvod do vizualizace a interpretace dat/2. Statické ukazatele",
     "Uvod do vizualizace a interpretace dat/1. Úvod do analýzy dat/1.3 Získávání dat.md",
-    "Uvod do vizualizace a interpretace dat/1. Úvod do analýzy dat/1.3_ziskavani_dat.png",
     "Uvod do vizualizace a interpretace dat/1. Úvod do analýzy dat/1.2 Statistický znak, soubor a proměnné.md",
-    "Uvod do vizualizace a interpretace dat/1. Úvod do analýzy dat",
-    "Matematický proseminář/2. Množiny.md",
-    "Matematický proseminář/1. Vlastnosti čísel.md",
-    "Matematický proseminář/3. Algebraické výrazy.md",
-    "Matematický proseminář/Vysvětlivky.md",
-    "Matematický proseminář/Obsah.base",
-    "Obchodní angličtina/Obsah.base",
-    "Obchodní angličtina/1. My Career/1. My Career.base",
-    "Základy softwarového vývoje/Programování/1. Úvod do JavaScript.md",
     "Úvod do studia/1.Konzultace.md",
-    "Obchodní angličtina/Fighting Czechisms/Fighting Czechisms.base",
     "Obchodní angličtina/Vocabulary.md",
     "Obchodní angličtina/1. My Career/1.1 Grammar-Present Simple & Present Continuous.md",
-    "Obchodní angličtina/1. My Career/1.2 Skills-There is, There are, It is.md",
-    "Obchodní angličtina/Fighting Czechisms/1. The Noun.md",
-    "Obchodní angličtina/Fighting Czechisms",
-    "Obchodní angličtina/1.My Career.md"
+    "Obchodní angličtina/1. My Career/1.2 Skills-There is, There are, It is.md"
   ]
 }

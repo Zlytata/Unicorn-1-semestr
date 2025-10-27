@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "Uvod do vizualizace a interpretace dat/2. Statistické proměnné a organizace dat"
+        - file.ext != "base"
+    cardSize: 800

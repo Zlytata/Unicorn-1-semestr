@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy"
+        - file.ext == "md"
+    cardSize: 800

@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "Uvod do vizualizace a interpretace dat/2. Statické ukazatele"
+        - file.folder == "Uvod do vizualizace a interpretace dat/5. Statické ukazatele"
         - file.ext != "base"
         - file.ext != "png"
     cardSize: 800
