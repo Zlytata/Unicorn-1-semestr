@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "Základy softwarového vývoje/Softwarový vývoj/4 Přehled současných metodik"
+        - file.ext == "md"
+    cardSize: 800

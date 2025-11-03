@@ -1,7 +1,8 @@
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
         - file.folder == "Základy softwarového vývoje/Softwarový vývoj/3. Znalosti při vývoji software"
         - file.ext == "md"
+    cardSize: 800
