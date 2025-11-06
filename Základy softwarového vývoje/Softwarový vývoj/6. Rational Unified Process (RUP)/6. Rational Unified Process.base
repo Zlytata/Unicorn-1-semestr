@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "Základy softwarového vývoje/Softwarový vývoj/6. Rational Unified Process (RUP)"
+        - file.ext == "md"
+    cardSize: 800
