@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "Základy softwarového vývoje/Softwarový vývoj/7. Fáze metodiky RUP"
+        - file.ext == "md"
+    cardSize: 800
