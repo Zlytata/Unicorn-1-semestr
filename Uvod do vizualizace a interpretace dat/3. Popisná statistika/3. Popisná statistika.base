@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Unicorn-1-semestr/Uvod do vizualizace a interpretace dat/3. Popisná statistika"
+        - file.ext == "md"

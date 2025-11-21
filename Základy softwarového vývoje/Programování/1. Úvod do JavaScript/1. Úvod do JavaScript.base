@@ -3,6 +3,6 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "Základy softwarového vývoje/Programování/1. Úvod do JavaScript"
+        - file.folder == "Unicorn-1-semestr/Základy softwarového vývoje/Programování/1. Úvod do JavaScript"
         - file.ext == "md"
     cardSize: 800

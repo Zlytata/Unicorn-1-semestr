@@ -3,7 +3,7 @@ views:
     name: View
     filters:
       and:
-        - file.folder == "Obchodní angličtina/1. My Career"
+        - file.folder == "Unicorn-1-semestr/Obchodní angličtina/1. My Career"
         - file.ext != "base"
     order:
       - file.name

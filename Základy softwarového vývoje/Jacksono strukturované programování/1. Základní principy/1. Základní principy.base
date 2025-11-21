@@ -3,6 +3,6 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy"
+        - file.folder == "Unicorn-1-semestr/Základy softwarového vývoje/Jacksono strukturované programování/1. Základní principy"
         - file.ext == "md"
     cardSize: 800
